@@ -266,7 +266,7 @@ int main()
 
     int num = 100000; //need to change this manually for data tests
 
-    srand(time(0));
+    srand(time(0)); //random
 
     cout << "Random Integer Testing: " << endl << endl;
 
